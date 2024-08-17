@@ -1,0 +1,1 @@
+This was part of a university coursework to solve sudoku problems. I implemented a backtracking solution with optimizations such as MRV to enable me to achieve 100% on the implementation of this coursework.
